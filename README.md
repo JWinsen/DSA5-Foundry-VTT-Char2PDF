@@ -2,7 +2,7 @@
 
 > [!IMPORTANT]  
 >  
-> # Attention [followup repository](https://github.com/Plushtoast/dsa5-char2pdf) !
+> # Attention [follow-up repository](https://github.com/Plushtoast/dsa5-char2pdf) !
 > Will be continued by [Plushtoast](https://github.com/Plushtoast). Thanks for the support!
 ______________________________________________________________________________________________________
 
